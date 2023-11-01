@@ -1,0 +1,452 @@
+{
+
+"DIR": "ltr",
+
+"PageTitle":{
+"AddUser":"Add Account",
+"MeasruingUnit":"MeasruingUnit",
+"ApartmentComplex" :"Apartment Complex",
+"Alley" :"Alley",
+"Services":" Services",
+"AddressStructure":"Address Structure ",
+"State":"State",
+"Governorate":"Governorate",
+"City":"City",
+"AddClientBalance":"Add Client Balance",
+"MyAccount":"My Account",
+"ServiceSettings":"Service Settings",
+"OwnerApartment":"OwnerApartment",
+"Building" :" Building",
+"ServiceCosts":"Service Costs",
+"OwnerUnitAccountStatement":"Owner & Unit Account Statement"
+},
+
+"navBar":{
+  "Main":"Main",
+  "MyAccount":"My Account",
+  "Profile":"Profile",
+  "Account":"Account",
+  "Login":"Login",
+  "Register":"Register",
+  "logout":"Logout",
+  "Language":"Language",
+  "Search":"Search",
+  "Theams":"Theams"
+},
+
+"Menu":{
+"Main":"Main",
+"AddUser":"Add Account" ,
+"AddressStructure":"Address Structure",
+"State":"State" ,
+"Governorate":"Governorate",
+"City":"City",
+"MeasruingUnit": "Measruing Unit",
+"ApartmentComplex" :"Apartment Complex ",
+"Alley": " Alley",
+"Building": " Building",
+"Services": " Services",
+"Role": " Role",
+"HousingUnits": "Housing Units",
+"AddClientBalance":"Add Client Balance",
+"MyAccount":"My Account",
+"Dashboard":"Dashboard",
+"OwnerApartment":"Owner Apartment",
+"ServiceSettings":"Service Settings",
+"ServiceCosts":"Service Costs",
+"OwnerUnitAccountStatement":"Owner & Unit Account Statement"
+},
+"Model":{
+    "AreYouSure":"AreYouSure  ? ",
+    "Sure":"Sure",
+    "Close":"Close",
+    "Save":"Save",
+    "Send":"Send",
+    "Update":"Update",
+    "Delete":"Delete",
+    "Show":"Show All",
+    "Print":"Print",
+    "New":"Add New",
+    "Details":"Details",
+    "CreatedDate":"Created Date",
+    "CreatedByName":" Created By ",
+    "LastModifiedDate":"Last Modifie dDate",
+    "ModifyByName":"Modify By",
+    "ModifyCount":"Modify Count",
+    "Gl":"Gl",
+    "Debit":"Debit",
+    "Credit":"Credit",
+    "Search":"Search",
+    "Actions":"Actions",
+    "Error":"Error",
+    "Return":"Return",
+    "TryAgain":"TryAgain",
+    "Own":"Own"
+},
+"Error":{
+
+    "DontPlay":"Please Don't Change Input Value"
+
+
+},
+"Success":{
+      "AddSuccess":"Add Success  ",
+      "UpdateSuccess":"Update Success",
+      "DeleteSuccess":"Delete Success  "
+},
+"Show":{
+      "UpdateAnother":"This Page Has Been Modified By Someone Else, Please Refresh The Page",
+      "InfoDelete":"Info Delete",
+      "InfoUpdate":"Info Update",
+      "ErrorNumberOnly":"Number Only",
+      "FristRow":"Can't Delete Frist Row"
+},
+"Table":{
+     "UnitName":"UnitName",
+      "NameAr":"NameAr",
+      "NameEn":"NameEn",
+      "NotFoundData":"NotFound Data"
+},
+"Footer":{
+  "Copyright":"Copyright@ SmartSoft Software Company"
+},
+"Login":{
+  "Email":" البريد الالكتروني",
+  "Password":"كلمة المرور"
+},
+"RoleGroup":{
+"UpateRoleGroup":"Upate RoleGroup",
+"RoleGroup":"Role Group",
+"AddRoleGroup":"Add Role Group",
+"Select":"Select",
+"NameAr":" NameAr",
+"NameEn":" NameEn",
+"Branch":"Branch",
+"ChooseBranch":"Choose Branch",
+"SelectAll":"Select All",
+"Error":{
+  "NameAr":"Enter NameAr",
+  "NameEn":"Enter NameEn",
+  "Branch":"Enter Branch",
+  "SelectOneRole":"Select Min One Role",
+  "Action":"Select Min One Action"
+}
+},
+"Seed":{
+"Seed":"ReSet",
+"UserName":"User Name",
+"Password":"Password",
+"Roles":"Roles",
+"User":"Manager",
+"Error":{
+  "UserName":"Enter UserName",
+  "Password":"Enter Password"
+}
+},
+"User":{
+
+  "UserPhones":"User Phones",
+  "Phone":"Phone",
+  "AddAccount":"Add Account",
+  "Owner":"Owner Name",
+  "Gender":"Gender",
+  "Male":"Male",
+  "Female":"Female",
+  "UserName":"UserName",
+  "Password":"Password",
+  "ConfirmPassword":"Confirm Password",
+  "BirthDay":"BirthDay",
+  "Jop":"Jop",
+  "IdNumber":"ID Number",
+  "Roles":"Roles",
+  "BannAccount":"BannAccount",
+  "EntryBicycle":"Entry Bicycle",
+  "EntryPerson":"Entry Person",
+  "Can":"Can",
+  "Canot":"Can't",
+  "Error":{
+    "NameAr":"Enter Name",
+    "Gender":"Gender",
+    "UserName":"Enter UserName",
+    "Password":"Enter Password",
+    "ConfirmPassword":"Confirm Password",
+    "PasswordNotMatched":"Password NotMatched"
+  }
+
+},
+"AddressStructure":{
+  "NameAr":"Enter Name",
+  "AddressStructure":"Address Structure ",
+  "AddressStructureType":"AddressStructure Type",
+  "ApartmentComplex":"Apartment Complex",
+  "Alley":"Alley",
+  "Building":"Building",
+  "Role":"Role",
+  "HousingUnits":"Housing Units",
+  "ApartmentComplexName":"ApartmentComplex Name ",
+  "Adress":"Adress",
+  "ComplexType":"Unit Type",
+  "ApartmentComplexType" :"ApartmentComplex Type" ,
+  "Residential":"Residential" ,
+  "Commercial":"Commercial" ,
+  "Service":"Service" ,
+  "Government":"Government" ,
+  "Industrial":"Industrial" ,
+  "Agricultural":"Agricultural" ,
+  "Other":"Other",
+  "StateId":"State",
+  "ChooseState":"Choose State ",
+  "GovernorateId":"Governorate",
+  "ChooseGovernorate":"Choose Governorate ",
+  "CityId":"City",
+  "ChooseCity":"ChooseC ity ",
+  "AlleyName":"Alley Name",
+  "ApartmentComplexId":"ApartmentComplex",
+  "ChooseApartmentComplex":"Choose ApartmentComplex ",
+  "BuildingName":" Building Name",
+  "BuildingAdress":"Building Adress",
+  "BuildingNo":"Building Number",
+  "AlleyId":"Alley",
+  "ChooseAlley":"Choose Alley",
+  "RoleName" :"Role",
+  "RoleNo":"Role Number",
+  "BuildingId":" Building",
+  "ChooseBuilding":"Choose Building",
+  "HousingUnitsName":"HousingUnits Name",
+  "HousingUnitsNo":"Housing Units Number",
+  "ManualUnitNo":"Manual Unit Number",
+  "RoleId":"Role",
+  "ChooseRole":"Choose Role" ,
+  "ElectricityMeterNo":"ElectricityMeter Number",
+  "GasMeterNo":"Gas Meter Number ",
+ "WaterMeterNo":" Water Meter Number",
+ "InternetCode":" Internet Code",
+ "Space":"Space",
+ "Notes":"Notes",
+ "Show":"Show",
+ "Error":{
+  "NameAr":"Enter Name",
+"AddressStructureType":"Choose Type",
+"ApartmentComplexName":"Enter ApartmentComplex Name ",
+"StateId":"Choose State",
+"GovernorateId":"Choose Governorate",
+"CityId":"Choose City",
+"ApartmentComplexAddress":"Enter Address",
+"AlleyName":"Enter Alley Name",
+"ApartmentComplexId":"Choose ApartmentComplex",
+"BuildingName":"Enter Building Name",
+"BuildingAdress":"Enter Building Adress",
+"BuildingNo" :"Enter Building Number",
+"AlleyId":"Choose Alley",
+"Role":"Enter Role",
+"RoleNo":"Enter Role Number ",
+"BuildingId":"Choose Building",
+"UnitName":"Enter Unit Name",
+"HousingUnitsNo":"Enter Housing Units Number",
+"HousingUnitsCode":"Housing Unit Manual Code",
+"ElectricityMeterNo":"Enter Electricity Meter Number",
+"GasMeterNo":"Enter Gas Meter Number ",
+"WaterMeterNo":" Enter Water Meter Number",
+"InternetCode":"Enter Internet Code",
+"Space":"Space"
+ }
+},
+"State":{
+  "State":"State",
+  "Name":"State Name ",
+  "Notes":"Notes"
+
+
+},
+"City":{
+  "City":"City",
+  "Name":"City Name ",
+  "Notes":"Notes"
+},
+"Governorate":{
+  "Governorate":"Governorate",
+  "Name":"Governorate Name ",
+  "Notes":"Notes"
+},
+"MeasruingUnit":{
+  "MeasruingUnit":"Measruing Unit",
+  "Name":"Unit Name",
+  "Code":"Code",
+  "Error":{
+    "NameAr":"Name Required",
+    "Code":"Code Required"
+  }
+},
+"Services":{
+  "Services":"Services",
+  "ClientName":"Client Name",
+  "PaymentType":"PaymentType",
+  "Amount":"Amount ",
+  "Service":"Service",
+  "NameAr" :"Name " ,
+  "ServiceType" :"Service Type",
+  "Notes" :"Notes",
+  "Normal":"Normal",
+  "Compound":"Compound",
+  "MeasruingUnit":"Measruing Unit",
+  "ChooseMeasruingUnit":"Choose MeasruingUnit",
+  "House":"House",
+  "From":"From",
+  "To":"To",
+  "Ratio":"Ratio",
+  "Total":"Total",
+  "Price":"Price",
+  "Commercial":"Commercial",
+  "Governmental":"Governmental",
+  "Industrial":"Industrial",
+  "Agricultural":" Agricultural",
+  "Error":{
+    "NameAr":"Enter Name",
+    "ServiceType":"Enter Service Type",
+    "MeasruingUnitId":"Choose Measruing Unit",
+    "DetailsOnePrice":" Enter Price House Row",
+    "DetailsTwoPrice":" Enter Price Commercial Row",
+    "DetailsThreePrice":" Enter Price Governmental Row",
+    "DetailsFourPrice":" Enter Price Industrial Row",
+    "DetailsFivePrice":" Enter Price Agricultural Row",
+    "DetailsSixPrice":" Enter Price Services Row",
+    "DetailsOneRatio":" Enter Ratio House Row",
+    "DetailsTwoRatio":" Enter Ratio Commercial Row",
+    "DetailsThreeRatio":" Enter Ratio Governmental Row",
+    "DetailsFourRatio":" Enter Ratio Industrial Row",
+    "DetailsFiveRatio":" Enter Ratio Agricultural Row",
+    "DetailsSixRatio":" Enter Ratio Services Row",
+    "DetailsOneFrom":" Enter Ratio House Row",
+    "DetailsTwoFrom":" Enter Ratio Commercial Row",
+    "DetailsThreeFrom":" Enter Ratio Governmental Row",
+    "DetailsFourFrom":" Enter Ratio Industrial Row",
+    "DetailsFiveFrom":" Enter Ratio Agricultural Row",
+    "DetailsSixFrom":" Enter Ratio Services Row",
+    "DetailsOneTo":" Enter Ratio House Row",
+    "DetailsTwoTo":" Enter Ratio Commercial Row",
+    "DetailsThreeTo":" Enter Ratio Governmental Row",
+    "DetailsFourTo":" Enter Ratio Industrial Row",
+    "DetailsFiveTo":" Enter Ratio Agricultural Row",
+    "DetailsSixTo":" Enter Ratio Services Row"
+  }
+},
+"AddClientBalance":{
+  "AddClientBalance":"AddClientBalance",
+  "ChooseClient":"Choose Client",
+  "AllClient":"All Client",
+  "PaymentType":"Payment Type",
+  "Cash":"Cash",
+  "Visa":"Debit",
+  "Amount":"Amount",
+  "Error":{
+    "Client":"Choose Client",
+    "PaymentType":"Choose PaymentType",
+    "Amount":"Enter Amount"
+  }
+},
+"MyAccount":{
+"MyAccount":"My Account"
+},
+"OwnerApartment":{
+  "OwnerApartment":"Owner Apartment",
+  "ApartmentComplex":"Apartment Complex ",
+  "ChooseApartmentComplex":"Choose ApartmentComplex ",
+  "AlleyId":"Alley",
+  "ChooseAlley":"Choose Alley",
+  "BuildingId":" Building",
+  "ChooseBuilding":"Choose Building",
+  "UnitNo":"Unit Number",
+  "ApartmentComplexName":"ApartmentComplex Name ",
+  "AlleyName":" Alley Name",
+  "BuildingName":" Building Name",
+  "RoleName":"Role Name",
+  "Owners":"Owners",
+  "ChooseOwner":"ChooseOwner",
+  "Reports":"Reports",
+  "OwnDate":"Own Date",
+  "Document":"Document",
+  "UnitDetails":"Unit Details",
+  "OwnerName":"Owner Name",
+  "WaiverDate":"Waiver Date",
+  "Error":{
+    "ChooseOwner":"Choose Owner",
+    "OwnDate":"Ente OwnDate"
+  }
+},
+"ServiceSettings":{
+  "ServiceSettings":"Service Settings",
+  "FixedService":"Fixed Service",
+  "VariableService":"Variable Service",
+  "ServiceName":"Service Name",
+  "MonthlySubscription":"Monthly Subscription",
+  "Discount":"Discount",
+  "Price":"Price",
+  "TotalPrice":"Total Price",
+  "MonthCount":"Month Count",
+  "AmountMonth":"Amount Month"
+},
+"ServiceCosts":{
+  "ServiceCosts":"Service Costs",
+  "ApartmentComplexId":"ApartmentComplex",
+  "ChooseApartmentComplex":"Choose ApartmentComplex ",
+  "AlleyId":"Alley",
+  "ChooseAlley":"Choose Alley",
+  "BuildingId":" Building",
+  "ChooseBuilding":"Choose Building",
+  "RoleId":"Role",
+  "ChooseRole":"Choose Role",
+  "UnitId":"Unit",
+  "ChooseUnit":"ChooseUnit",
+  "ServiceType":"Service Type",
+  "ChooseServiceType":"Choose Service Type",
+  "ChooseService":"ChooseService",
+  "Compound":"Compound",
+  "SecoundPrice":"Secound Price",
+  "Fixed":"Fixed",
+  "Variable":"Variable",
+  "Service":"Service",
+  "Amount":"Amount",
+  "Price":"Price",
+  "From":"From",
+  "To":"To",
+  "UnitType":"Unit Type",
+  "Date":"Date",
+  "Error":{
+   "ApartmentComplexId":"Choose ApartmentComplex",
+   "AlleyId":"Choose Alley",
+   "RoleId":"Choose Role",
+   "BuildingId":"Choose Building",
+   "ServiceType":"Choose Service Type",
+   "ServiceId":"Choose Service",
+   "Amount":"Enter Amount",
+   "Price":"Enter Price",
+   "SecoundPrice":"Enter SecoundPrice",
+   "DocDate":"Enter Date"
+  }
+},
+"OwnerUnitAccountStatement":{
+  "DocDate":"Date",
+  "OwnerUnitAccountStatement":"Owner & Unit Account Statement",
+  "Phone":"Phone",
+  "IdNumber":"ID Number",
+  "Merited":"Merited Month",
+  "MovementType":"Movement Type",
+  "Depit":"Depit",
+  "Credit":"Credit",
+  "All":"All",
+  "ChooseMovementType":"Choose Movement Type",
+  "UnitName":" Unit Name",
+  "Net":"Net",
+  "Statement":"Statement",
+  "Error":{
+    "ChooseOne":"Enter Date OR Owner OR Enter UnitName"
+  }
+}
+
+
+
+
+
+
+
+}

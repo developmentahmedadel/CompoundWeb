@@ -1,0 +1,455 @@
+{
+
+"DIR": "rtl",
+
+"PageTitle":{
+"AddUser":"اضافة حساب",
+"MeasruingUnit":"وحدة القياس",
+"ApartmentComplex" :"مجمع سكنى",
+"Alley" :"زقاق",
+"Building" :" المبني",
+"Services":" الخدمات",
+"AddressStructure":"هيكلية العنوان",
+"State":"الدولة",
+"Governorate":"المحافظة",
+"City":"المدينة",
+"AddClientBalance":"اضافة رصيد للمالك",
+"MyAccount":"حسابى",
+"OwnerApartment":"تسكين وحدة للمالك",
+"ServiceSettings":"اعدادات الخدمات",
+"ServiceCosts":"تكاليف الخدمة",
+"OwnerUnitAccountStatement":"كشف حساب لوحدة ومالك"
+},
+
+"navBar":{
+  "Main":"الرئيسية",
+  "Profile":"البروفيل",
+  "Account":"الحساب",
+  "Login":"تسجيل الدخول",
+  "Register":"تسجيل حساب",
+  "logout":"خروج",
+  "Language":"اللغة",
+  "Search":"بحث",
+  "Theams":"اللون"
+},
+"Menu":{
+"Main":"البيانات الاساسية",
+"AddUser":"اضافة حساب" ,
+"AddressStructure":"هيكلية العنوان",
+"State":"الدولة" ,
+"Governorate":"المحافظة",
+"City":"مدينة",
+"MeasruingUnit": "وحدة القياس",
+"ApartmentComplex" :"مجمع سكنى",
+"Alley": " الزقاق",
+"Building": " المبني",
+"Services": " الخدمات المركبة",
+"Role": " الدور",
+"HousingUnits": "وحدة سكنية",
+"AddClientBalance":"اضافة رصيد للمالك",
+"MyAccount":"حسابى",
+"Dashboard":"لوحة تحكم",
+"OwnerApartment":"تسكين وحدة للمالك",
+"ServiceSettings":"اعدادات الخدمات",
+"ServiceCosts":"تكاليف الخدمة",
+"OwnerUnitAccountStatement":"كشف حساب لوحدة ومالك"
+},
+"Model":{
+  "AreYouSure":"هل انت متاكد ؟",
+  "Sure":"تاكيد",
+  "Close":"الغاء",
+  "Save":"اتمام",
+  "Send":"حفظ",
+  "Update":"تعديل",
+  "Delete":"حذف",
+  "Show":"عرض الكل",
+  "Print":"طباعة",
+  "New":"اضافة جديد",
+  "Details":"التفاصيل",
+  "CreatedDate":"تاريخ الانشاء",
+  "CreatedByName":" انشئ بواسطة ",
+  "LastModifiedDate":"تاريخ اخر تعديل",
+  "ModifyByName":"اخر شخص قام بالتعديل",
+  "ModifyCount":"عدد مرات التعديل",
+  "Search":"بحث",
+  "Actions":"اجراءات",
+  "Error":"خطا",
+  "Return":"عودة",
+  "TryAgain":"حاول مرة اخري",
+  "Own":"تسكين"
+},
+"Error":{
+"DontPlay":"من فضلك لا تغير قيم الحقول"
+},
+"Success":{
+  "AddSuccess":"تم الاضافة بنجاح",
+  "UpdateSuccess":"تم التعديل بنجاح",
+  "DeleteSuccess":"تم الحذف بنجاح"
+},
+"Show":{
+  "UpdateAnother":"تم التعديل علي هذة الصفحة من قبل شخص اخر من فضلك اعد تحديث الصفحة",
+  "InfoDelete":"تم حذف ",
+  "InfoUpdate":"تم تعديل ",
+  "ErrorNumberOnly":"ارقام فقط",
+  "FristRow":"لا يمكن حذف اول سطر"
+},
+"Table":{
+  "UnitName":"اسم الوحدة",
+  "NameAr":"الاسم عربي",
+  "NameEn":"الاسم انجليزي",
+  "Show":"عرض",
+  "Name":"الاسم",
+  "NotFoundData":"لا يوجد بيانات"
+
+},
+"Footer":{
+  "Copyright":"جـمـيـع  الـحـقـوقـ  مـحـفـوظـة  لـدي  شـركـة  SmartSoft  لـلـبـرمـجـيـات "
+},
+"Login":{
+"Email":" البريد الالكتروني",
+"Password":"كلمة المرور",
+"Error":{
+  "Email":"ادخل البريد الالكتروني",
+  "Password":"ادخل كلمة المرور"
+}
+},
+"RoleGroup":{
+  "UpateRoleGroup":"تعديل الصلاحية",
+  "RoleGroup":"الصلاحيات",
+  "AddRoleGroup":"اضافة صلاحية",
+  "Select":"اختيار",
+  "NameAr":"الاسم عربي",
+  "NameEn":"الاسم انجليزي",
+  "Branch":"الفرع",
+  "ChooseBranch":"اختر الفرع",
+  "SelectAll":"اختيار الكل",
+  "Error":{
+    "NameAr":"ادخل الاسم عربي ",
+    "NameEn":"ادخل الاسم انجليزي ",
+    "Branch":"اختر الفرع",
+    "SelectOneRole":"اختر صلاحية واحدة علي الاقل",
+    "Action":"اختر اجراء واحد علي الاقل"
+  }
+},
+"Seed":{
+  "Seed":"اعادة ضبط",
+  "UserName":"اسم المستخدم",
+  "Password":"كلمة المرور",
+  "Roles":"الصلاحيات",
+  "User":"المدير",
+  "Error":{
+    "UserName":"ادخل اسم المستخدم",
+    "Password":"ادخل كلمة المرور"
+  }
+},
+"User":{
+
+  "UserPhones":"ارقام الهاتف",
+  "Phone":"رقم الهاتف",
+  "AddAccount":"اضافة حساب",
+  "Owner":"اسم المالك",
+  "Gender":"النوع",
+  "Male":"ذكر",
+  "Female":"انثي",
+  "UserName":"اسم المستخدم",
+  "Password":"كلمة المرور",
+  "ConfirmPassword":"اعد كلمة المرور",
+  "BirthDay":"تاريخ الميلاد",
+  "Jop":"العمل",
+  "IdNumber":"رقم الهوية",
+  "Roles":"الصلاحيات",
+  "BannAccount":"ايقاف الحساب",
+  "EntryBicycle":"ادخال عجلات",
+  "EntryPerson":"ادخال اشخاص",
+  "Can":"يمكنه",
+  "Canot":"لا يمكنه",
+  "Error":{
+    "NameAr":"ادخل الاسم  ",
+    "Gender":"اختر النوع",
+    "UserName":"ادخل اسم المستخدم",
+    "Password":"ادخل كلمة المرور",
+    "ConfirmPassword":"ادخل كلمة المرور مرة اخري",
+    "PasswordNotMatched":"كلمتا المرور غير متطابقين"
+  }
+
+},
+"AddressStructure":{
+  "NameAr":" الاسم  ",
+  "AddressStructure":"هيكلية العنوان",
+  "AddressStructureType":"النوع",
+  "ApartmentComplex":"مجمع سكنى",
+  "Alley":"زقاق",
+  "Building":"مبنى",
+  "Role":"دور",
+  "HousingUnits":"وحدة سكنية",
+  "ApartmentComplexName":"اسم المجمع السكنى ",
+  "Adress":"العنوان",
+  "ComplexType":"نوع الوحدة السكنية",
+  "ApartmentComplexType" :" اختر نوع الوحدة " ,
+  "Residential":"منزلي" ,
+  "Commercial":"تجارى" ,
+  "Service":"خدمى" ,
+  "Government":"حكومى" ,
+  "Industrial":"صناعى" ,
+  "Agricultural":" زراعى" ,
+  "Other":"اخرى",
+  "StateId":"الدولة",
+  "ChooseState":"اختر الدولة",
+  "GovernorateId":"المحافظة",
+  "ChooseGovernorate":"اختر المحافظة",
+  "CityId":"المدينة",
+  "ChooseCity":"اختر المدينة",
+  "AlleyName":"اسم الزقاق",
+  "ApartmentComplexId":"مجمع سكنى",
+  "ChooseApartmentComplex":"اختر المجمع السكنى",
+  "BuildingName":" المبنى",
+  "BuildingAdress":"عنوان المبني",
+  "BuildingNo":"رقم المبنى",
+  "AlleyId":" الزقاق",
+  "ChooseAlley":"اختر الزقاق",
+  "RoleName" :"الدور",
+  "RoleNo":"رقم الدور",
+  "BuildingId":" المبنى",
+  "ChooseBuilding":"اختر المبنى",
+  "HousingUnitsName":"اسم الوحدة السكنية",
+  "HousingUnitsNo":"رقم الوحدة",
+  "ManualUnitNo":"رقم الوحدة اليدوى",
+  "RoleId":" الدور",
+  "ChooseRole":"اختر الدور" ,
+  "ElectricityMeterNo":"رقم عداد الكهرباء",
+  "GasMeterNo":"رقم عداد الغاز",
+ "WaterMeterNo":"رقم عداد المياه",
+ "InternetCode":"كود الانترنت",
+ "Space":"مساحه",
+ "Notes":"ملاحظات",
+ "Show":"عرض",
+ "Error":{
+  "NameAr":"ادخل الاسم  ",
+"AddressStructureType":"اختر النوع",
+"ApartmentComplexName":"ادخل اسم المجمع السكنى ",
+"StateId":"اختر الدولة",
+"GovernorateId":"اختر المحافظة",
+"CityId":"اختر المدينة",
+"ApartmentComplexAddress":"ادخل عنوان المجمع",
+"AlleyName":"ادخل اسم الزقاق",
+"ApartmentComplexId":"اختر المجمع السكنى",
+"BuildingName":" ادخل اسم المبني",
+"BuildingAdress":"ادخل عنوان المبني",
+"BuildingNo":"ادخل رقم المبنى",
+"AlleyId":" اختر الزقاق",
+"Role":" ادخل الدور",
+"RoleNo":"ادخل رقم الدور",
+"BuildingId":"اختر المبني",
+"UnitName":"ادخل اسم الوحدة" ,
+"HousingUnitsNo":"ادخل رقم الوحدة",
+"HousingUnitsCode":"ادخل كود الوحدة اليدوي",
+"ElectricityMeterNo":"ادخل رقم عداد الكهرباء",
+"GasMeterNo":"ادخل رقم عداد الغاز",
+"WaterMeterNo":"ادخل رقم عداد المياه",
+"InternetCode":"ادخل كود الانترنت",
+"Space":"ادخل المساحة"
+ }
+},
+"State":{
+  "State":"الدولة",
+  "Name":"اسم الدوله",
+  "Notes":"ملاحظات"
+
+
+},
+"City":{
+  "City":"المدينة",
+  "Name":"اسم المدينة",
+  "Notes":"ملاحظات"
+},
+"Governorate":{
+  "Governorate":"المحافظة",
+  "Name":"اسم المحافظة",
+  "Notes":"ملاحظات"
+},
+"MeasruingUnit":{
+  "MeasruingUnit":"وحدة القياس",
+  "Name":"اسم الوحدة",
+  "Code":"الرمز",
+  "Error":{
+    "NameAr":"ادخل الاسم  ",
+    "Code":"الرمز"
+  }
+},
+"Services":{
+  "Services":"خدمي",
+  "ClientName":"اسم المالك",
+  "PaymentType":"طرق الدفع",
+  "Amount":"المبلغ ",
+  "Service":"خدمات",
+  "NameAr" :"اسم الخدمة" ,
+  "ServiceType" :"نوع الخدمة",
+  "Notes" :"ملاحظات",
+  "Normal":"عادية",
+  "Compound":"مركبة",
+  "MeasruingUnit":"وحدة القياس",
+  "ChooseMeasruingUnit":"اختر وحدة القياس",
+  "House":"منزلي",
+  "From":"من",
+  "To":"الي",
+  "Ratio":"النسبة",
+  "Total":"اجمالي",
+  "Price":"السعر",
+  "Commercial":"تجارى",
+  "Governmental":"حكومي",
+  "Industrial":"صناعى",
+  "Agricultural":" زراعى",
+  "Error":{
+    "NameAr":"ادخل الاسم  ",
+    "ServiceType":"ادخل نوع الخدمة ",
+    "MeasruingUnitId":"اختر وحدة القياس",
+    "DetailsOnePrice":" ادخل السعر في المنزلي الصف ",
+    "DetailsTwoPrice":" ادخل السعر في تجارى الصف ",
+    "DetailsThreePrice":" ادخل السعر في حكومي الصف ",
+    "DetailsFourPrice":" ادخل السعر في صناعى الصف ",
+    "DetailsFivePrice":" ادخل السعر في زراعى الصف ",
+    "DetailsSixPrice":" ادخل السعر في الخدمي الصف ",
+    "DetailsOneRatio":" ادخل النسبة بشكل صحيح في المنزل الصف ",
+    "DetailsTwoRatio":" ادخل النسبة بشكل صحيح في تجارى الصف ",
+    "DetailsThreeRatio":" ادخل النسبة بشكل صحيح في حكومي الصف ",
+    "DetailsFourRatio":" ادخل النسبة بشكل صحيح في صناعى الصف ",
+    "DetailsFiveRatio":" ادخل النسبة بشكل صحيح في زراعى الصف ",
+    "DetailsSixRatio":" ادخل النسبة بشكل صحيح في خدمي الصف ",
+    "DetailsOneFrom":" ادخل فترة من في المنزلي الصف ",
+    "DetailsTwoFrom":" ادخل فترة من في تجارى الصف ",
+    "DetailsThreeFrom":" ادخل فترة من في حكومي الصف ",
+    "DetailsFourFrom":" ادخل فترة من في صناعى الصف ",
+    "DetailsFiveFrom":" ادخل فترة من في زراعى الصف ",
+    "DetailsSixFrom":" ادخل فترة من في الخدمي الصف ",
+    "DetailsOneTo":" ادخل الفترة الي في المنزلي الصف ",
+    "DetailsTwoTo":" ادخل الفترة الي في تجارى الصف ",
+    "DetailsThreeTo":" ادخل الفترة الي في حكومي الصف ",
+    "DetailsFourTo":" ادخل الفترة الي في صناعى الصف ",
+    "DetailsFiveTo":" ادخل الفترة الي في زراعى الصف ",
+    "DetailsSixTo":" ادخل الفترة الي في خدمي الصف "
+
+  }
+
+},
+"AddClientBalance":{
+  "AddClientBalance":"اضافة رصيد للمالك",
+  "ChooseClient":"اختر المالك",
+  "AllClient":"كل الملاك",
+  "PaymentType":"طرق الدفع",
+  "Cash":"نقدي",
+  "Visa":"فيزا",
+  "Amount":"المبلغ المدفوع",
+  "Error":{
+    "Client":"اختر المالك",
+    "PaymentType":"اختر نوع الدفع",
+    "Amount":"ادخل المبلغ"
+  }
+},
+"MyAccount":{
+"MyAccount":"حسابى"
+},
+"OwnerApartment":{
+  "OwnerApartment":"تسكين وحدة للمالك",
+  "ApartmentComplex":"مجمع سكنى",
+  "ChooseApartmentComplex":"اختر المجمع السكنى",
+  "AlleyId":" الزقاق",
+  "ChooseAlley":"اختر الزقاق",
+  "BuildingId":" المبنى",
+  "ChooseBuilding":"اختر المبنى",
+  "UnitNo":"رقم الوحدة",
+  "ApartmentComplexName":"اسم المجمع السكنى ",
+  "AlleyName":" اسم الزقاق",
+  "BuildingName":" اسم المبني",
+  "RoleName":"اسم الدور",
+  "Owners":"الملاك",
+  "ChooseOwner":"اختر المالك",
+  "Reports":"تقارير مالية",
+  "OwnDate":"تاريخ التمليك",
+  "Document":"مستند",
+  "UnitDetails":"تفاصيل الوحدة",
+  "OwnerName":"اسم المالك",
+  "WaiverDate":"تاريخ التنازل",
+  "Error":{
+    "ChooseOwner":"اختر المالك",
+    "OwnDate":"ادخل تاريخ التمليك"
+  }
+},
+"ServiceSettings":{
+  "ServiceSettings":"اعدادات الخدمات",
+  "FixedService":"خدمات ثابتة",
+  "VariableService":"خدمات متغيرة",
+  "ServiceName":"اسم الخدمة",
+  "MonthlySubscription":" قيمة الاشتراك الشهري",
+  "Discount":"حدود الخصم",
+  "Price":"السعر",
+  "TotalPrice":"قيمة المبلغ الكلي",
+  "MonthCount":"عدد الاشهر",
+  "AmountMonth":"قيمة الاشتراك الشهري"
+},
+"ServiceCosts":{
+  "ServiceCosts":"تكاليف الخدمة",
+  "ApartmentComplexId":"مجمع سكنى",
+  "ChooseApartmentComplex":"اختر المجمع السكنى",
+  "AlleyId":" الزقاق",
+  "ChooseAlley":"اختر الزقاق",
+  "BuildingId":" المبنى",
+  "ChooseBuilding":"اختر المبنى",
+  "RoleId":" الدور",
+  "ChooseRole":"اختر الدور",
+  "UnitId":"الوحدات السكنية",
+  "ChooseUnit":"اختر الوحدة",
+  "ServiceType":"نوع الخدمة",
+  "ChooseServiceType":"اختر نوع الخدمة",
+  "ChooseService":"اختر الخدمة",
+  "Compound":"مركبة",
+  "SecoundPrice":"رسوم الخدمة",
+  "Fixed":"ثابتة",
+  "Variable":"متغيرة",
+  "Service":"الخدمة",
+  "Amount":"الكمية",
+  "Price":"السعر",
+  "From":"الشريحة من",
+  "To":"الشريحة الي",
+  "UnitType":"نوع الوحدة",
+  "Date":"التاريخ",
+  "Error":{
+    "ApartmentComplexId":"اختر المجمع السكنى",
+    "AlleyId":" اختر الزقاق",
+    "RoleId":" اختر الدور ",
+    "BuildingId":"اختر المبني",
+    "ServiceType":"اختر نوع الخدمة ",
+    "ServiceId":"اختر الخدمة",
+    "Amount":"ادخل الكمية",
+    "Price":"ادخل السعر",
+    "SecoundPrice":"ادخل رسوم الخدمة",
+    "DocDate":"ادخل التاريخ"
+  }
+},
+"OwnerUnitAccountStatement":{
+  "DocDate":" التاريخ",
+  "OwnerUnitAccountStatement":"كشف حساب لوحدة ومالك",
+  "Phone":"رقم الهاتف",
+  "IdNumber":"رقم الهوية",
+  "Merited":"مستحق شهر",
+  "MovementType":"نوع الحركة",
+  "Depit":"مدين",
+  "Credit":"دائن",
+  "All":"الكل",
+  "ChooseMovementType":"اختر نوع الحركة",
+  "UnitName":"اسم الوحدة",
+  "Net":"الرصيد",
+  "Statement":"بيان",
+  "Error":{
+    "ChooseOne":"اختر المالك او التاريخ او ادخل اسم الوحدة"
+  }
+}
+
+
+
+
+
+
+
+
+
+}
